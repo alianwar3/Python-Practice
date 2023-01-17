@@ -1,2 +1,2 @@
 # Python-Practice
-Covering fundamental python topics w/Practice problems and solutions
+Covering fundamental python topics w/practice problems and solutions
